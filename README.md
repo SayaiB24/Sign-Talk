@@ -24,9 +24,9 @@ The translated text will be displayed on the screen in real time.
 
  
 ## Example Image  
-![Gesture Detection Example](sample\3.jpeg)
-![Gesture Detection Example](sample\4.jpeg)
-![Gesture Detection Example](sample\2.jpeg)
+![Gesture Detection Example](3.jpeg)
+![Gesture Detection Example](4.jpeg)
+![Gesture Detection Example](2.jpeg)
 
 
 ## Future Plans  
