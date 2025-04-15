@@ -1,4 +1,4 @@
-# Solar Panel Extraction from Satellite Imagery
+# 🧏‍♀️ SignTALK – Bridging Communication Through Indian Sign Language
 
 ## Overview
 I have created a computer vision model that coverts sign language to english by detecting the hand gesture
